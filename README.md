@@ -21,4 +21,5 @@ Go to the Sync tab of the plugin and select GitHub. Add a new item:
 ### Use the tokens
 
 Use the followin instructions to use the tokens in Figma: https://docs.tokens.studio/tokens/applying-tokens
+
 Having fun with tokens! 🎉
