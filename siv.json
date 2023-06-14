@@ -1,5 +1,5 @@
 {
-  "volver": {
+  "siv": {
     "colors": {
       "transparent": {
         "value": "transparent",
@@ -1347,7 +1347,7 @@
       }
     }
   },
-  "volver-dark": {
+  "siv-dark": {
     "colors": {
       "word": {
         "word": {
