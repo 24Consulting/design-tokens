@@ -125,7 +125,7 @@
       },
       "brand": {
         "brand": {
-          "value": "hsla(209.8203592814deg, 79.1469194313%, 41.3725490196%, 1)",
+          "value": "#d10a2b",
           "type": "color"
         },
         "brand-lighten-5": {
@@ -1426,5 +1426,12 @@
         }
       }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "volver",
+      "volver-dark"
+    ]
   }
 }
