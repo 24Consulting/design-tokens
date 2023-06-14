@@ -73,7 +73,7 @@
           "type": "color"
         },
         "surface-brand": {
-          "value": "hsl(209.8203592814deg, 79.1469194313%, 90%)",
+          "value": "#fdced6",
           "type": "color"
         },
         "surface-accent": {
