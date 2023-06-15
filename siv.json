@@ -1345,10 +1345,6 @@
         "value": "1536px",
         "type": "sizing"
       }
-    },
-    "Pippo": {
-      "value": "#5edcb8",
-      "type": "color"
     }
   },
   "siv-dark": {
